@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Aditya Bhalla
 
+🎓 Computer Engineering Graduate | 💻 Hardware & Software Enthusiast | 🚀 Lifelong Learner  
+
+I’m a Computer Engineering graduate passionate about building practical software and hardware projects. I enjoy solving problems, experimenting with code, and creating tools or systems that have real-world applications.
+
+---
+## 🔧 Technical Skills
+
+**Programming & Scripting:**  
+C/C++ • Python • MATLAB • Java • JavaScript • R • Bash • HTML • Promela
 <!--
 **adityabhalla-dev/adityabhalla-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
